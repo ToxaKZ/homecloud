@@ -1,0 +1,9 @@
+ARES REGION FILE
+
+*HEADER
+VERSION 300 300
+UNITS 1th
+AREA  1 1 -1 -1                     
+
+*OBJECTS
+*END_OBJECTS
